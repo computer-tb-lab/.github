@@ -5,17 +5,11 @@ AI-driven software engineering and automation laboratory.
 ## Areas
 
 - AI-assisted development
-- COBOL modernization
+- Legacy system modernization
 - VB.NET / ASP.NET analysis
-- Power Platform automation
+- Workflow automation
 - GitHub Actions automation
 - Specification generation
-
-## Projects
-
-- auto-cobol-spec-pipeline
-- auto-vbasp-spec-pipeline
-- power-platform-workspace
 
 ## Technologies
 
