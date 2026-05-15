@@ -100,10 +100,9 @@ AI-generated code must be reviewed for:
 
 Primary technologies used by this organization include:
 
-- Claude Code
-- GitHub Copilot
+- AI-assisted development tools
 - GitHub Actions
-- Roslyn
+- Static analysis tooling
 - Power Platform
-- COBOL modernization tooling
-- VB.NET / ASP.NET analysis tooling
+- Legacy modernization tooling
+- Workflow automation tooling
