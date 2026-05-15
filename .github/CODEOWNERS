@@ -1,0 +1,23 @@
+# Global owner
+* @ryoyukky-lab
+
+# GitHub Actions
+.github/workflows/* @ryoyukky-lab
+
+# Security-related files
+SECURITY.md @ryoyukky-lab
+CLAUDE.md @ryoyukky-lab
+
+# Infrastructure and deployment
+deployment-settings* @ryoyukky-lab
+*.yml @ryoyukky-lab
+*.yaml @ryoyukky-lab
+
+# Power Platform
+power-platform-workspace/* @ryoyukky-lab
+
+# COBOL modernization
+auto-cobol-spec-pipeline/* @ryoyukky-lab
+
+# VB.NET / ASP.NET analysis
+auto-vbasp-spec-pipeline/* @ryoyukky-lab
