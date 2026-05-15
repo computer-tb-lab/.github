@@ -1,11 +1,1 @@
-# Global owner
-* @ryoyukky-lab
 
-# Organization policy files
-README.md @ryoyukky-lab
-profile/README.md @ryoyukky-lab
-SECURITY.md @ryoyukky-lab
-CLAUDE.md @ryoyukky-lab
-
-# GitHub configuration
-.github/* @ryoyukky-lab
