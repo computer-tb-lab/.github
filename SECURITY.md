@@ -2,13 +2,9 @@
 
 ## Supported Projects
 
-The following repositories are actively maintained and supported by Computer TB Lab.
+Computer TB Lab maintains security practices for active projects under this organization.
 
-| Repository | Status |
-| --- | --- |
-| auto-cobol-spec-pipeline | Supported |
-| auto-vbasp-spec-pipeline | Supported |
-| power-platform-workspace | Supported |
+Project-specific support status may be defined within each repository.
 
 ---
 
